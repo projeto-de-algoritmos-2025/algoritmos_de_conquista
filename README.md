@@ -17,19 +17,24 @@ Serão implementados os seguintes exercícios:
 | [LC 493](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/reverse.py) | Reverse Pairs | Difícil | João Pedro 
 
 # Screenshots
-![print_candy](https://github.com/user-attachments/assets/697099b5-6310-4200-9171-49fd162a9d59)
+![sort an array](https://github.com/user-attachments/assets/b8cf33f7-40b2-4a26-b5b3-7aabd10548b4)
 
 Sort an Array
 
-![print_integertoroman](https://github.com/user-attachments/assets/756a3220-eb18-4c7b-a999-2ae72fa47b1d)
+
+![countofsmaller](https://github.com/user-attachments/assets/bcc99472-d448-45d1-a990-c9e8a97353a6)
+
 
 Count of Smaller Numbers After Self
 
-![print_min_cook](https://github.com/user-attachments/assets/79c4a36b-c958-4d69-ad0a-4f0bd5d71cb1)
+
+![medianoftwo](https://github.com/user-attachments/assets/bfed9bf3-3689-4027-8754-e28b9ecff6db)
+
 
 Median of Two Sorted Arrays
 
-![print_max_candies](https://github.com/user-attachments/assets/8c7e8993-47b6-4729-b4bb-abf47c501693)
+
+![reversepairs](https://github.com/user-attachments/assets/0fb6475d-0048-436c-bd52-a89c39110e1b)
 
 Reverse pairs
 

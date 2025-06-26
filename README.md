@@ -12,7 +12,7 @@ Serão implementados os seguintes exercícios:
 | Código do Problema | Nome do Problema | Dificuldade | Responsável | 
 |--------------------|------------------|-------------|-------------|
 | [LC 912](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/sort.py) | Sort an Array | Médio | João Pedro
-| [LC 315] (https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/count.py) | 	Count of Smaller Numbers After Self | Difícil | João Pedro
+| [LC 315](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/count.py) | 	Count of Smaller Numbers After Self | Difícil | João Pedro
 | [LC 4](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/median.py) | Median of Two Sorted Arrays| Difícil | João Pedro  
 | [LC 493](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/reverse.py) | Reverse Pairs | Difícil | João Pedro 
 

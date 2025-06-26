@@ -12,26 +12,26 @@ Serão implementados os seguintes exercícios:
 | Código do Problema | Nome do Problema | Dificuldade | Responsável | 
 |--------------------|------------------|-------------|-------------|
 | [LC 912](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/sort.py) | Sort an Array | Médio | João Pedro
-| [LC 315](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/count.py) | 	Count of Smaller Numbers After Self | Difícil | João Pedro
+| [LC 315](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/count.py) | Count of Smaller Numbers After Self | Difícil | João Pedro
 | [LC 4](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/median.py) | Median of Two Sorted Arrays| Difícil | João Pedro  
 | [LC 493](https://github.com/projeto-de-algoritmos-2025/algoritmos_de_conquista/blob/main/reverse.py) | Reverse Pairs | Difícil | João Pedro 
 
 # Screenshots
 ![print_candy](https://github.com/user-attachments/assets/697099b5-6310-4200-9171-49fd162a9d59)
 
-Integer to Roman
+Sort an Array
 
 ![print_integertoroman](https://github.com/user-attachments/assets/756a3220-eb18-4c7b-a999-2ae72fa47b1d)
 
-Candy
+Count of Smaller Numbers After Self
 
 ![print_min_cook](https://github.com/user-attachments/assets/79c4a36b-c958-4d69-ad0a-4f0bd5d71cb1)
 
-Maximum Candies You Can Get from Boxes
+Median of Two Sorted Arrays
 
 ![print_max_candies](https://github.com/user-attachments/assets/8c7e8993-47b6-4729-b4bb-abf47c501693)
 
-Minimum Cost to Set Cooking Time
+Reverse pairs
 
 
 # Instalação
